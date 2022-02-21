@@ -1,0 +1,13 @@
+/Users/macburak/Projects/ifelsePratik/ifelsePratik/bin/Debug/netcoreapp3.1/ifelsePratik.deps.json
+/Users/macburak/Projects/ifelsePratik/ifelsePratik/bin/Debug/netcoreapp3.1/ifelsePratik.runtimeconfig.json
+/Users/macburak/Projects/ifelsePratik/ifelsePratik/bin/Debug/netcoreapp3.1/ifelsePratik.runtimeconfig.dev.json
+/Users/macburak/Projects/ifelsePratik/ifelsePratik/bin/Debug/netcoreapp3.1/ifelsePratik.dll
+/Users/macburak/Projects/ifelsePratik/ifelsePratik/bin/Debug/netcoreapp3.1/ifelsePratik.pdb
+/Users/macburak/Projects/ifelsePratik/ifelsePratik/obj/Debug/netcoreapp3.1/ifelsePratik.csproj.AssemblyReference.cache
+/Users/macburak/Projects/ifelsePratik/ifelsePratik/obj/Debug/netcoreapp3.1/ifelsePratik.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macburak/Projects/ifelsePratik/ifelsePratik/obj/Debug/netcoreapp3.1/ifelsePratik.AssemblyInfoInputs.cache
+/Users/macburak/Projects/ifelsePratik/ifelsePratik/obj/Debug/netcoreapp3.1/ifelsePratik.AssemblyInfo.cs
+/Users/macburak/Projects/ifelsePratik/ifelsePratik/obj/Debug/netcoreapp3.1/ifelsePratik.csproj.CoreCompileInputs.cache
+/Users/macburak/Projects/ifelsePratik/ifelsePratik/obj/Debug/netcoreapp3.1/ifelsePratik.dll
+/Users/macburak/Projects/ifelsePratik/ifelsePratik/obj/Debug/netcoreapp3.1/ifelsePratik.pdb
+/Users/macburak/Projects/ifelsePratik/ifelsePratik/obj/Debug/netcoreapp3.1/ifelsePratik.genruntimeconfig.cache
